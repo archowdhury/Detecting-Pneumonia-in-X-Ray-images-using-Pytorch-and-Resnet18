@@ -1,0 +1,1 @@
+This project is meant to demonstrate how to detect the heart in X-ray images. The data for this has been taken from Kaggle (RSNA-Pneumonia challenge). Pytorch Lightning has been used along with a fine tuned Resnet18 model.
